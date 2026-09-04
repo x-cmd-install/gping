@@ -7,7 +7,7 @@ about:
   head: 681bd79
   archived: false
   latestVersion: gping-v1.21.0
-  collectedAt: 2026-09-04T19:20:25Z
+  collectedAt: 2026-09-04T21:13:18Z
 timeline:
   created: 2015-10-17
   lastCommit: 2026-08-31
@@ -82,6 +82,39 @@ total:
   openIssue: 34
   commit: 767
 ---
+path: /home/runner/.x-repo/github.com/orf/gping
+collectedAt: 2026-09-04T21:13:19Z
+loc:
+  Rust:
+    code: 1789
+    comments: 71
+    blanks: 249
+    files: 15
+  Toml:
+    code: 52
+    comments: 21
+    blanks: 9
+    files: 4
+  Dockerfile:
+    code: 12
+    comments: 1
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 171
+    blanks: 55
+    files: 3
+  Text:
+    code: 0
+    comments: 124
+    blanks: 14
+    files: 7
+total:
+  code: 1904
+  comments: 447
+  blanks: 341
+  files: 30
 ---
 date: "2026-08-24"
 repo:
