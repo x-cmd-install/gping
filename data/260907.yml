@@ -5,13 +5,13 @@ about:
   head: 681bd79
   archived: false
   latestVersion: "gping-v1.21.0"
-  collectedAt: 2026-09-07T04:40:39Z
+  collectedAt: 2026-09-07T19:47:52Z
 timeline:
   created: 2015-10-17
   lastCommit: 2026-08-31
   lastRelease: 2026-08-31
 popularity:
-  star: 12670
+  star: 12672
   watcher: 81
   fork: 365
   release: 48
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 16
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 1
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 16
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 3
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 23
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 3
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 29
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 3
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 4
-    commit: 34
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 6
@@ -81,7 +81,7 @@ total:
   commit: 767
 ---
 path: /home/runner/.x-repo/github.com/orf/gping
-collectedAt: 2026-09-07T04:40:40Z
+collectedAt: 2026-09-07T19:47:57Z
 loc:
   Rust:
     code: 1789
@@ -233,7 +233,7 @@ checks:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:40:42+00:00
+  collectedAt: 2026-09-07T19:47:58+00:00
   platform:
     darwin/arm64:
       name:  gping-macOS-arm64.tar.gz
