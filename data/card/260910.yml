@@ -7,7 +7,7 @@ about:
   latestVersion: "gping-v1.21.0"
   latestRelease: "gping-v1.21.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:08:13Z
+  collectedAt: 2026-09-10T23:38:02Z
 timeline:
   created: 2015-10-17
   lastCommit: 2026-08-31
@@ -85,7 +85,7 @@ total:
   commit: 767
 ---
 path: /home/runner/.x-repo/github.com/orf/gping
-collectedAt: 2026-09-10T20:08:14Z
+collectedAt: 2026-09-10T23:38:05Z
 loc:
   Rust:
     code: 1789
