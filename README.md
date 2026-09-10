@@ -12,50 +12,7 @@ Ping, but with a graph
 x install gping
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/orf/gping>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `gping-v1.21.0` (2026-08-31)
-- **Last commit**: 2026-08-31
-- **Assets in release**: 11
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [gping-Linux-androideabi-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-androideabi-armv7.tar.gz) | 1.1 MiB | `native/linux/arm` |
-| [gping-Linux-gnu-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnu-arm64.tar.gz) | 1.3 MiB | `native/linux/arm64/glibc` |
-| [gping-Linux-gnu-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnu-x86_64.tar.gz) | 1.3 MiB | `native/linux/x64/glibc` |
-| [gping-Linux-gnueabihf-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnueabihf-armv7.tar.gz) | 1.3 MiB | `native/linux/arm/glibc` |
-| [gping-Linux-musl-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musl-arm64.tar.gz) | 1.3 MiB | `native/linux/arm64/musl` |
-| [gping-Linux-musl-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musl-x86_64.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
-| [gping-Linux-musleabihf-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musleabihf-armv7.tar.gz) | 1.3 MiB | `native/linux/arm/musl` |
-| [gping-macOS-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-macOS-arm64.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [gping-macOS-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-macOS-x86_64.tar.gz) | 1.2 MiB | `native/darwin/x64` |
-| [gping-Windows-msvc-x86_64.zip](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Windows-msvc-x86_64.zip) | 1.1 MiB | `native/win/x64` |
-| [gping.1](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping.1) | 3.2 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 12,677 · **Forks**: 365 · **Open issues**: 168 · **Contributors**: 60
-
-## Totals (cumulative)
-
-- **Releases**: 48 · **Merged PRs**: 212 · **Open PRs**: 5 · **Closed issues**: 134 · **Open issues**: 34 · **Commits**: 767
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 2 | 1 | 1 | 1 | 16 |
-| 90d | 2026-06-12 | 3 | 6 | 1 | 1 | 1 | 23 |
-| 360d | 2025-09-15 | 3 | 15 | 1 | 1 | 4 | 34 |
-
-## Code size
+## Code insight
 
 Total: **1,853** lines of code across **30** files in the top 5 languages.
 
@@ -77,6 +34,70 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/orf/gping>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `gping-v1.21.0` (2026-08-31)
+- **Last commit**: 2026-08-31
+- **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 12,678 · **Forks**: 365 · **Open issues**: 168 · **Contributors**: 60
+
+## Totals (cumulative)
+
+- **Releases**: 48 · **Merged PRs**: 212 · **Open PRs**: 5 · **Closed issues**: 134 · **Open issues**: 34 · **Commits**: 767
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 2 | 1 | 1 | 1 | 16 |
+| last60d | 2026-07-12 | 1 | 3 | 1 | 1 | 1 | 16 |
+| 90d | 2026-06-12 | 3 | 6 | 1 | 1 | 1 | 23 |
+| last180d | 2026-03-14 | 3 | 9 | 1 | 1 | 1 | 29 |
+| 360d | 2025-09-15 | 3 | 15 | 1 | 1 | 4 | 34 |
+| last720d | 2024-09-20 | 6 | 25 | 4 | 7 | 11 | 96 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gping-Linux-androideabi-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-androideabi-armv7.tar.gz) | 1.1 MiB | `native/linux/arm` |
+| [gping-Linux-gnu-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnu-arm64.tar.gz) | 1.3 MiB | `native/linux/arm64/glibc` |
+| [gping-Linux-gnu-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnu-x86_64.tar.gz) | 1.3 MiB | `native/linux/x64/glibc` |
+| [gping-Linux-gnueabihf-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-gnueabihf-armv7.tar.gz) | 1.3 MiB | `native/linux/arm/glibc` |
+| [gping-Linux-musl-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musl-arm64.tar.gz) | 1.3 MiB | `native/linux/arm64/musl` |
+| [gping-Linux-musl-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musl-x86_64.tar.gz) | 1.4 MiB | `native/linux/x64/musl` |
+| [gping-Linux-musleabihf-armv7.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Linux-musleabihf-armv7.tar.gz) | 1.3 MiB | `native/linux/arm/musl` |
+| [gping-macOS-arm64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-macOS-arm64.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [gping-macOS-x86_64.tar.gz](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-macOS-x86_64.tar.gz) | 1.2 MiB | `native/darwin/x64` |
+| [gping-Windows-msvc-x86_64.zip](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Windows-msvc-x86_64.zip) | 1.1 MiB | `native/win/x64` |
+| [gping.1](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping.1) | 3.2 KiB | `other` |
+
+## Distribution status
+
+Reported by **130** distros on [repology.org](https://repology.org/project/gping). **23** are ✅ on the latest upstream release, **70** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.20.4` | ⚠️ outdated |
+| Debian 14 | `1.20.4` | ⚠️ outdated |
+| Debian 13 | `1.19.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.20.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.16.0` | ⚠️ outdated |
+| Arch | `1.21.0` | ✅ latest |
+| Homebrew | `1.21.0` | ✅ latest |
+| Nix unstable | `1.21.0` | ✅ latest |
+| Void | `1.19.0` | ⚠️ outdated |
+| Alpine edge | `1.20.4` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.20.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gping` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +107,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:22Z._
