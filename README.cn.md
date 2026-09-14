@@ -47,7 +47,7 @@ x install gping
 
 ## 流行度
 
-- **Star**: 12,677 · **Fork**: 366 · **开放 issue**: 168 · **贡献者**: 60
+- **Star**: 12,678 · **Fork**: 366 · **开放 issue**: 168 · **贡献者**: 60
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install gping
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 1 | 1 | 1 | 16 |
-| last60d | 2026-07-15 | 1 | 3 | 1 | 1 | 1 | 16 |
-| 90d | 2026-06-15 | 2 | 5 | 1 | 1 | 1 | 23 |
-| last180d | 2026-03-17 | 3 | 9 | 1 | 1 | 1 | 29 |
-| 360d | 2025-09-18 | 3 | 15 | 1 | 1 | 4 | 34 |
-| last720d | 2024-09-23 | 6 | 25 | 4 | 6 | 11 | 96 |
+| 30d | 2026-08-15 | 1 | 1 | 1 | 1 | 1 | 15 |
+| last60d | 2026-07-16 | 1 | 3 | 1 | 1 | 1 | 16 |
+| 90d | 2026-06-16 | 2 | 5 | 1 | 1 | 1 | 22 |
+| last180d | 2026-03-18 | 3 | 9 | 1 | 1 | 1 | 29 |
+| 360d | 2025-09-19 | 3 | 15 | 1 | 1 | 4 | 34 |
+| last720d | 2024-09-24 | 6 | 25 | 4 | 6 | 11 | 96 |
 
 ## Release 资产
 
@@ -80,24 +80,6 @@ x install gping
 | [gping-Windows-msvc-x86_64.zip](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Windows-msvc-x86_64.zip) | 1.1 MiB | `native/win/x64` |
 | [gping.1](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping.1) | 3.2 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gping) 上共有 **130** 个发行版报告此项目。**23** 个 ✅ 已是最新上游版本，**70** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.20.4` | ⚠️ outdated |
-| Debian 14 | `1.20.4` | ⚠️ outdated |
-| Debian 13 | `1.19.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.20.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.16.0` | ⚠️ outdated |
-| Arch | `1.21.0` | ✅ latest |
-| Homebrew | `1.21.0` | ✅ latest |
-| Nix unstable | `1.21.0` | ✅ latest |
-| Void | `1.19.0` | ⚠️ outdated |
-| Alpine edge | `1.20.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.20.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 gping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gping` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -107,4 +89,4 @@ gping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:54:37Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:01:09Z._
