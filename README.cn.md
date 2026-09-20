@@ -4,7 +4,7 @@
 
 Ping, but with a graph
 
-![gping](https://repo.x-cmd.io/gping.svg?lang=zh)
+[![x-cmd/install — gping Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gping.svg?lang=zh)](https://x-cmd.com/install/gping)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install gping
 
 ## 流行度
 
-- **Star**: 12,684 · **Fork**: 366 · **开放 issue**: 169 · **贡献者**: 60
+- **Star**: 12,685 · **Fork**: 366 · **开放 issue**: 169 · **贡献者**: 60
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 212 · **开放 PR**: 5 · **已关闭 issue**: 134 · **开放 issue**: 35 · **提交数**: 767
+- **发布数**: 48 · **已合并 PR**: 212 · **开放 PR**: 6 · **已关闭 issue**: 134 · **开放 issue**: 35 · **提交数**: 767
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 1 | 1 | 1 | 15 |
-| last60d | 2026-07-20 | 1 | 3 | 1 | 1 | 2 | 16 |
-| 90d | 2026-06-20 | 2 | 4 | 1 | 1 | 2 | 22 |
-| last180d | 2026-03-22 | 3 | 9 | 1 | 1 | 2 | 29 |
-| 360d | 2025-09-23 | 3 | 15 | 1 | 1 | 5 | 34 |
-| last720d | 2024-09-28 | 6 | 25 | 4 | 6 | 12 | 96 |
+| 30d | 2026-08-21 | 1 | 1 | 2 | 1 | 1 | 15 |
+| last60d | 2026-07-22 | 1 | 3 | 2 | 1 | 2 | 16 |
+| 90d | 2026-06-22 | 2 | 4 | 2 | 1 | 2 | 22 |
+| last180d | 2026-03-24 | 3 | 9 | 2 | 1 | 2 | 29 |
+| 360d | 2025-09-25 | 3 | 15 | 2 | 1 | 5 | 34 |
+| last720d | 2024-09-30 | 6 | 25 | 5 | 5 | 12 | 96 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ gping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:42:05Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:01:04Z._

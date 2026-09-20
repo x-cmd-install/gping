@@ -4,7 +4,7 @@
 
 Ping, but with a graph
 
-![gping](https://repo.x-cmd.io/gping.svg)
+[![x-cmd/install — gping Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gping.svg)](https://x-cmd.com/install/gping)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,684 · **Forks**: 366 · **Open issues**: 169 · **Contributors**: 60
+- **Stars**: 12,685 · **Forks**: 366 · **Open issues**: 169 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 212 · **Open PRs**: 5 · **Closed issues**: 134 · **Open issues**: 35 · **Commits**: 767
+- **Releases**: 48 · **Merged PRs**: 212 · **Open PRs**: 6 · **Closed issues**: 134 · **Open issues**: 35 · **Commits**: 767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 1 | 1 | 1 | 15 |
-| last60d | 2026-07-20 | 1 | 3 | 1 | 1 | 2 | 16 |
-| 90d | 2026-06-20 | 2 | 4 | 1 | 1 | 2 | 22 |
-| last180d | 2026-03-22 | 3 | 9 | 1 | 1 | 2 | 29 |
-| 360d | 2025-09-23 | 3 | 15 | 1 | 1 | 5 | 34 |
-| last720d | 2024-09-28 | 6 | 25 | 4 | 6 | 12 | 96 |
+| 30d | 2026-08-21 | 1 | 1 | 2 | 1 | 1 | 15 |
+| last60d | 2026-07-22 | 1 | 3 | 2 | 1 | 2 | 16 |
+| 90d | 2026-06-22 | 2 | 4 | 2 | 1 | 2 | 22 |
+| last180d | 2026-03-24 | 3 | 9 | 2 | 1 | 2 | 29 |
+| 360d | 2025-09-25 | 3 | 15 | 2 | 1 | 5 | 34 |
+| last720d | 2024-09-30 | 6 | 25 | 5 | 5 | 12 | 96 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:01:03Z._
