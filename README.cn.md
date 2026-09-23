@@ -4,7 +4,7 @@
 
 Ping, but with a graph
 
-[![x-cmd/install — gping Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gping.svg?lang=zh)](https://x-cmd.com/install/gping)
+[![x-cmd/install — gping Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gping.svg?lang=zh)](https://x-cmd.com/install/gping)
 
 ## 安装
 
@@ -21,7 +21,7 @@ x install gping
 | Rust | 1,789 | 71 | 249 | 15 |
 | Toml | 52 | 21 | 9 | 4 |
 | Dockerfile | 12 | 1 | 9 | 1 |
-| Markdown | 0 | 171 | 55 | 3 |
+| Markdown | 0 | 172 | 55 | 3 |
 | Text | 0 | 124 | 14 | 7 |
 
 ## OpenSSF Scorecard 评分
@@ -42,27 +42,27 @@ x install gping
 ## 发布
 
 - **最新版本**: `gping-v1.21.0` (2026-08-31)
-- **最近提交**: 2026-08-31
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 12,687 · **Fork**: 366 · **开放 issue**: 169 · **贡献者**: 60
+- **Star**: 12,689 · **Fork**: 368 · **开放 issue**: 169 · **贡献者**: 61
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 212 · **开放 PR**: 6 · **已关闭 issue**: 134 · **开放 issue**: 35 · **提交数**: 767
+- **发布数**: 48 · **已合并 PR**: 213 · **开放 PR**: 7 · **已关闭 issue**: 134 · **开放 issue**: 35 · **提交数**: 768
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 2 | 1 | 1 | 15 |
-| last60d | 2026-07-24 | 1 | 3 | 2 | 1 | 2 | 16 |
-| 90d | 2026-06-24 | 2 | 4 | 2 | 1 | 2 | 16 |
-| last180d | 2026-03-26 | 3 | 9 | 2 | 1 | 2 | 28 |
-| 360d | 2025-09-27 | 3 | 15 | 2 | 1 | 5 | 33 |
-| last720d | 2024-10-02 | 6 | 25 | 5 | 5 | 12 | 96 |
+| 30d | 2026-08-24 | 1 | 1 | 3 | 1 | 1 | 16 |
+| last60d | 2026-07-25 | 1 | 4 | 3 | 1 | 2 | 17 |
+| 90d | 2026-06-25 | 1 | 5 | 3 | 1 | 2 | 17 |
+| last180d | 2026-03-27 | 3 | 9 | 3 | 1 | 2 | 29 |
+| 360d | 2025-09-28 | 3 | 16 | 3 | 1 | 5 | 34 |
+| last720d | 2024-10-03 | 6 | 26 | 6 | 5 | 12 | 97 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ gping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:51:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:53:05Z._
