@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,694 · **Forks**: 367 · **Open issues**: 169 · **Contributors**: 61
+- **Stars**: 12,695 · **Forks**: 367 · **Open issues**: 169 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 1 | 3 | 1 | 1 | 16 |
-| last60d | 2026-07-29 | 1 | 4 | 3 | 1 | 2 | 17 |
-| 90d | 2026-06-29 | 1 | 5 | 3 | 1 | 2 | 17 |
-| last180d | 2026-03-31 | 3 | 9 | 3 | 1 | 2 | 29 |
-| 360d | 2025-10-02 | 3 | 15 | 3 | 1 | 5 | 34 |
-| last720d | 2024-10-07 | 6 | 26 | 6 | 5 | 12 | 97 |
+| 30d | 2026-08-29 | 1 | 1 | 3 | 1 | 1 | 1 |
+| last60d | 2026-07-30 | 1 | 4 | 3 | 1 | 2 | 17 |
+| 90d | 2026-06-30 | 1 | 5 | 3 | 1 | 2 | 17 |
+| last180d | 2026-04-01 | 3 | 9 | 3 | 1 | 2 | 29 |
+| 360d | 2025-10-03 | 3 | 15 | 3 | 1 | 5 | 34 |
+| last720d | 2024-10-08 | 6 | 26 | 6 | 5 | 12 | 97 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:27:42Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:22:37Z._
