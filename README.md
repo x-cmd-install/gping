@@ -26,11 +26,11 @@ Total: **1,853** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,696 · **Forks**: 367 · **Open issues**: 169 · **Contributors**: 61
+- **Stars**: 12,697 · **Forks**: 368 · **Open issues**: 170 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 213 · **Open PRs**: 7 · **Closed issues**: 134 · **Open issues**: 35 · **Commits**: 768
+- **Releases**: 48 · **Merged PRs**: 213 · **Open PRs**: 8 · **Closed issues**: 134 · **Open issues**: 36 · **Commits**: 768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 1 | 3 | 1 | 1 | 1 |
-| last60d | 2026-07-31 | 1 | 4 | 3 | 1 | 2 | 17 |
-| 90d | 2026-07-01 | 1 | 5 | 3 | 1 | 2 | 17 |
-| last180d | 2026-04-02 | 3 | 9 | 3 | 1 | 2 | 29 |
-| 360d | 2025-10-04 | 3 | 15 | 3 | 1 | 5 | 34 |
-| last720d | 2024-10-09 | 6 | 26 | 6 | 5 | 12 | 97 |
+| 30d | 2026-08-31 | 1 | 1 | 4 | 1 | 2 | 1 |
+| last60d | 2026-08-01 | 1 | 4 | 4 | 1 | 3 | 17 |
+| 90d | 2026-07-02 | 1 | 5 | 4 | 1 | 3 | 17 |
+| last180d | 2026-04-03 | 3 | 9 | 4 | 1 | 3 | 29 |
+| 360d | 2025-10-05 | 3 | 15 | 4 | 1 | 6 | 34 |
+| last720d | 2024-10-10 | 6 | 26 | 7 | 5 | 13 | 97 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:44:16Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:36:45Z._
