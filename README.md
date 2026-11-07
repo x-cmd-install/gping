@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,732 · **Forks**: 374 · **Open issues**: 170 · **Contributors**: 61
+- **Stars**: 12,733 · **Forks**: 374 · **Open issues**: 170 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 1 | 5 | 0 | 2 | 1 |
-| 90d | 2026-08-08 | 1 | 3 | 5 | 1 | 3 | 17 |
-| last180d | 2026-05-10 | 3 | 8 | 5 | 1 | 3 | 28 |
-| 360d | 2025-11-11 | 3 | 14 | 5 | 2 | 5 | 34 |
-| last720d | 2024-11-16 | 6 | 26 | 8 | 4 | 12 | 97 |
+| 30d | 2026-10-08 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 1 | 5 | 0 | 2 | 1 |
+| 90d | 2026-08-09 | 1 | 3 | 5 | 1 | 3 | 17 |
+| last180d | 2026-05-11 | 3 | 8 | 5 | 1 | 3 | 28 |
+| 360d | 2025-11-12 | 3 | 14 | 5 | 2 | 5 | 34 |
+| last720d | 2024-11-17 | 5 | 26 | 8 | 4 | 12 | 89 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **130** distros on [repology.org](https://repology.org/project/gping). **30** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/gping). **32** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -107,4 +107,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:45:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:58:00Z._
