@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 90d | 2026-08-16 | 1 | 2 | 5 | 1 | 3 | 16 |
-| last180d | 2026-05-18 | 3 | 8 | 5 | 1 | 3 | 28 |
-| 360d | 2025-11-19 | 3 | 14 | 5 | 2 | 5 | 34 |
-| last720d | 2024-11-24 | 5 | 26 | 8 | 4 | 12 | 89 |
+| 30d | 2026-10-16 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 1 | 5 | 0 | 1 | 1 |
+| 90d | 2026-08-17 | 1 | 2 | 5 | 1 | 3 | 16 |
+| last180d | 2026-05-19 | 3 | 8 | 5 | 1 | 3 | 28 |
+| 360d | 2025-11-20 | 3 | 14 | 5 | 2 | 5 | 34 |
+| last720d | 2024-11-25 | 5 | 26 | 8 | 4 | 12 | 89 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **132** distros on [repology.org](https://repology.org/project/gping). **33** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
+Reported by **131** distros on [repology.org](https://repology.org/project/gping). **33** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -107,4 +107,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:24:51Z._
