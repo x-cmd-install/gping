@@ -1,105 +1,15 @@
-- repo: wakemeops
-  subrepo: terminal
+- repo: terra_39
+  srcname: rust-gping
   binname: gping
   visiblename: gping
-  version: 1.7.0
-  origversion: 1.7.0-1~ops2deb
+  version: 1.15.1
+  origversion: 1.15.1-1.fc39
   status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.6.3
-  origversion: 1.6.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.6.2
-  origversion: 1.6.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.6.1
-  origversion: 1.6.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.6.0
-  origversion: 1.6.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.5.1
-  origversion: 1.5.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.13.1
-  origversion: 1.13.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.13.0
-  origversion: 1.13.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.12.0
-  origversion: 1.12.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: aur
-  srcname: gping-git
-  binname: gping-git
-  visiblename: gping-git
-  version: 1.2.3.r4.ga95a678
-  origversion: 1.2.3.r4.ga95a678-1
-  status: rolling
   summary: Ping, but with a graph
-  maintainers:
-    - yodaembedding@aur
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: terminal
-  binname: gping
-  visiblename: gping
-  version: 1.8.0
-  origversion: 1.8.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+  categories:
+    - Unspecified
 - repo: alpine_3_18
   subrepo: community
   srcname: gping
@@ -257,6 +167,18 @@
   origversion: 1.21.0-1
   status: newest
   summary: Ping, but with a graph
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gping-git
+  binname: gping-git
+  visiblename: gping-git
+  version: 1.2.3.r4.ga95a678
+  origversion: 1.2.3.r4.ga95a678-1
+  status: rolling
+  summary: Ping, but with a graph
+  maintainers:
+    - yodaembedding@aur
   licenses:
     - MIT
 - repo: chimera
@@ -436,16 +358,6 @@
     - ehaupt@freebsd.org
   categories:
     - net-mgmt
-- repo: termux
-  srcname: gping
-  binname: gping
-  visiblename: gping
-  version: 1.21.0
-  origversion: null
-  status: newest
-  summary: Ping, but with a graph
-  maintainers:
-    - kcubeterm@github
 - repo: gentoo_ovl_guru
   srcname: net-analyzer/gping
   visiblename: net-analyzer/gping
@@ -522,6 +434,18 @@
     - ZLIB
   categories:
     - net-analyzer
+- repo: pkgsrc_2026_3
+  srcname: net/gping
+  binname: gping
+  visiblename: net/gping
+  version: 1.21.0
+  origversion: null
+  status: newest
+  summary: Ping, but with a graph
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: macports
   srcname: net/gping
   binname: gping
@@ -727,18 +651,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - net
-- repo: pkgsrc_2026_3
-  srcname: net/gping
-  binname: gping
-  visiblename: net/gping
-  version: 1.21.0
-  origversion: null
-  status: newest
-  summary: Ping, but with a graph
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: pkgsrc_current
   srcname: net/gping
   binname: gping
@@ -842,18 +754,16 @@
     - boxjake.romero@protonmail.com
   categories:
     - network
-- repo: terra_39
-  srcname: rust-gping
+- repo: termux
+  srcname: gping
   binname: gping
   visiblename: gping
-  version: 1.15.1
-  origversion: 1.15.1-1.fc39
-  status: legacy
+  version: 1.21.0
+  origversion: null
+  status: newest
   summary: Ping, but with a graph
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
+  maintainers:
+    - kcubeterm@github
 - repo: terra_39
   srcname: rust-gping
   binname: gping
@@ -1226,6 +1136,20 @@
     - MIT
   categories:
     - Unspecified
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-gping
+  binnames:
+    - gping
+  visiblename: rust-gping
+  version: 1.20.4
+  origversion: 1.20.4-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - werdahias@debian.org
+  categories:
+    - universe/misc
 - repo: terra_rawhide
   srcname: rust-gping
   binname: gping
@@ -1379,36 +1303,8 @@
     - werdahias@debian.org
   categories:
     - universe/misc
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: rust-gping
-  binnames:
-    - gping
-  visiblename: rust-gping
-  version: 1.20.4
-  origversion: 1.20.4-1
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - werdahias@debian.org
-  categories:
-    - universe/misc
 - repo: ubuntu_27_04
   subrepo: tenacious/universe
-  srcname: rust-gping
-  binnames:
-    - gping
-  visiblename: rust-gping
-  version: 1.20.4
-  origversion: 1.20.4-1
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - werdahias@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
   srcname: rust-gping
   binnames:
     - gping
@@ -1494,6 +1390,96 @@
   visiblename: gping
   version: 1.14.0
   origversion: 1.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.13.1
+  origversion: 1.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.13.0
+  origversion: 1.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.12.0
+  origversion: 1.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.8.0
+  origversion: 1.8.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.7.0
+  origversion: 1.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.6.3
+  origversion: 1.6.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.6.2
+  origversion: 1.6.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.6.1
+  origversion: 1.6.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.6.0
+  origversion: 1.6.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: gping
+  visiblename: gping
+  version: 1.5.1
+  origversion: 1.5.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
