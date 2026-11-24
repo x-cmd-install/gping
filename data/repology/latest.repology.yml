@@ -1,15 +1,25 @@
-- repo: terra_39
-  srcname: rust-gping
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gping
   binname: gping
   visiblename: gping
-  version: 1.15.1
-  origversion: 1.15.1-1.fc39
-  status: legacy
+  version: 1.21.0
+  origversion: 1.21.0-1
+  status: newest
   summary: Ping, but with a graph
   licenses:
     - MIT
-  categories:
-    - Unspecified
+- repo: nix_stable_24_05
+  srcname: gping
+  visiblename: gping
+  version: 1.16.1
+  origversion: null
+  status: outdated
+  summary: Ping, but with a graph
+  maintainers:
+    - christina@cafkafk.com
+  licenses:
+    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: gping
@@ -402,6 +412,18 @@
     - werdahias@debian.org
   categories:
     - misc
+- repo: terra_39
+  srcname: rust-gping
+  binname: gping
+  visiblename: gping
+  version: 1.15.1
+  origversion: 1.15.1-1.fc39
+  status: legacy
+  summary: Ping, but with a graph
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: liguros_stable
   srcname: net-analyzer/gping
   visiblename: net-analyzer/gping
@@ -434,25 +456,13 @@
     - ZLIB
   categories:
     - net-analyzer
-- repo: pkgsrc_2026_3
-  srcname: net/gping
-  binname: gping
-  visiblename: net/gping
-  version: 1.21.0
-  origversion: null
-  status: newest
-  summary: Ping, but with a graph
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: macports
   srcname: net/gping
   binname: gping
   visiblename: gping
-  version: 1.20.1
+  version: 1.21.0
   origversion: null
-  status: outdated
+  status: newest
   summary: ping, but with a graph
   maintainers:
     - harens@macports
@@ -481,28 +491,6 @@
   origversion: 1.21.0-1
   status: newest
   summary: Ping, but with a graph
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gping
-  binname: gping
-  visiblename: gping
-  version: 1.21.0
-  origversion: 1.21.0-1
-  status: newest
-  summary: Ping, but with a graph
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: gping
-  visiblename: gping
-  version: 1.16.1
-  origversion: null
-  status: outdated
-  summary: Ping, but with a graph
-  maintainers:
-    - christina@cafkafk.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -612,7 +600,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-gping
   binnames:
     - gping
@@ -626,7 +614,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-gping
   binnames:
     - gping
@@ -646,6 +634,18 @@
   version: 1.20.1
   origversion: null
   status: outdated
+  summary: Ping, but with a graph
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_2026_3
+  srcname: net/gping
+  binname: gping
+  visiblename: net/gping
+  version: 1.21.0
+  origversion: null
+  status: newest
   summary: Ping, but with a graph
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -1136,20 +1136,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: rust-gping
-  binnames:
-    - gping
-  visiblename: rust-gping
-  version: 1.20.4
-  origversion: 1.20.4-1
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - werdahias@debian.org
-  categories:
-    - universe/misc
 - repo: terra_rawhide
   srcname: rust-gping
   binname: gping
@@ -1297,6 +1283,20 @@
   visiblename: rust-gping
   version: 1.20.1
   origversion: 1.20.1-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - werdahias@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-gping
+  binnames:
+    - gping
+  visiblename: rust-gping
+  version: 1.20.4
+  origversion: 1.20.4-1
   status: outdated
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
