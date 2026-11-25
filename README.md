@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 1 | 1 | 5 | 1 | 2 | 16 |
-| last180d | 2026-05-28 | 3 | 8 | 5 | 1 | 3 | 28 |
-| 360d | 2025-11-29 | 3 | 13 | 5 | 2 | 4 | 33 |
-| last720d | 2024-12-04 | 5 | 26 | 8 | 3 | 12 | 89 |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 1 | 1 | 5 | 1 | 2 | 16 |
+| last180d | 2026-05-29 | 3 | 8 | 5 | 1 | 3 | 28 |
+| 360d | 2025-11-30 | 3 | 13 | 5 | 2 | 4 | 33 |
+| last720d | 2024-12-05 | 5 | 26 | 8 | 3 | 12 | 89 |
 
 ## Release assets
 
@@ -80,24 +80,6 @@ Lowest-scoring checks:
 | [gping-Windows-msvc-x86_64.zip](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping-Windows-msvc-x86_64.zip) | 1.1 MiB | `native/win/x64` |
 | [gping.1](https://github.com/orf/gping/releases/download/gping-v1.21.0/gping.1) | 3.2 KiB | `other` |
 
-## Distribution status
-
-Reported by **131** distros on [repology.org](https://repology.org/project/gping). **34** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.21.0` | ✅ latest |
-| Debian 14 | `1.21.0` | ✅ latest |
-| Debian 13 | `1.19.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.20.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.16.0` | ⚠️ outdated |
-| Arch | `1.21.0` | ✅ latest |
-| Homebrew | `1.21.0` | ✅ latest |
-| Nix unstable | `1.21.0` | ✅ latest |
-| Void | `1.19.0` | ⚠️ outdated |
-| Alpine edge | `1.21.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.21.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gping` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +89,4 @@ Install metadata for gping lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:34:31Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:55:49Z._
